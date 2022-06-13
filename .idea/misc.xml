@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/button_task_check.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/button_task_continue.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/custom_word_border.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/custom_word_selected.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/get_started_button.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/gray_bottom_border.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_achievements_24.xml" value="0.336" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.2315" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_baseline_store_24.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.336" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_launcher_background.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ic_trainer_black_24dp.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/recycler_view_divider.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/drawable/ripple_recycler_view_item.xml" value="0.271" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/layout/fragment_achievements.xml" value="0.4041666666666667" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/layout/fragment_home.xml" value="0.4041666666666667" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/layout/fragment_notifications.xml" value="0.4041666666666667" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/layout/fragment_shop.xml" value="0.4041666666666667" />
+        <entry key="..\:/AndroidStudioProjects/M/app/src/main/res/menu/bottom_nav_menu.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_achievements_24.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.4588541666666667" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_baseline_store_24.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/drawable/ic_trainer.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/activity_main.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_achieve.xml" value="0.4427083333333333" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_achievements.xml" value="0.25625" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_dashboard.xml" value="0.37273550724637683" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_home.xml" value="0.4427083333333333" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_notifications.xml" value="0.37273550724637683" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_profile.xml" value="0.25625" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_shop.xml" value="0.25625" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/layout/fragment_theory.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/argat/AndroidStudioProjects/M/app/src/main/res/menu/bottom_nav_menu.xml" value="0.4427083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

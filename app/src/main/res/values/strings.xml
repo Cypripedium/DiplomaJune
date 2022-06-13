@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Диплом</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Теория</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_achievements">Достижения</string>
+    <string name="title_shop">Магазин</string>
+</resources>
